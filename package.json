@@ -1,0 +1,26 @@
+{
+  "name": "xiaomi-mimo-autoreg",
+  "version": "2.1.0",
+  "description": "Xiaomi MiMo Auto-Registration - Browser Automation + Telegram Bot",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node scripts/chain-loop.js",
+    "test": "node scripts/chain-loop.js --count 1",
+    "bot": "node src/bot/index.js",
+    "chain": "node scripts/chain-loop.js"
+  },
+  "directories": {
+    "src": "src/",
+    "scripts": "scripts/",
+    "config": "config/"
+  },
+  "dependencies": {
+    "playwright": "^1.40.0",
+    "node-fetch": "^3.3.0",
+    "telegraf": "^4.16.0"
+  },
+  "keywords": ["xiaomi", "mimo", "automation", "registration", "telegram-bot"],
+  "author": "",
+  "license": "MIT"
+}

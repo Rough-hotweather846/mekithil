@@ -1,0 +1,35 @@
+{
+  "tempmail": {
+    "apiUrl": "https://mail.yourdomain.com/api"
+  },
+  "captcha": {
+    "provider": "2captcha",
+    "apiKey": "YOUR_2CAPTCHA_API_KEY"
+  },
+  "xiaomi": {
+    "referralLink": "https://platform.xiaomimimo.com/?ref=XXXXXX",
+    "inviteCode": "XXXXXX",
+    "password": "YourPasswordHere",
+    "betaApplication": "MiMo-V2.5-Pro-UltraSpeed"
+  },
+  "telegram": {
+    "botToken": "YOUR_BOT_TOKEN_FROM_BOTFATHER",
+    "adminIds": [123456789],
+    "logChatId": null
+  },
+  "browser": {
+    "headless": true,
+    "timeout": 60000,
+    "screenshots": false
+  },
+  "proxy": {
+    "enabled": false,
+    "rotatePerAccount": true,
+    "defaultCountry": "US",
+    "maxRetries": 3,
+    "proxyList": [
+      "ip:port:user:pass",
+      "ip:port:user:pass"
+    ]
+  }
+}

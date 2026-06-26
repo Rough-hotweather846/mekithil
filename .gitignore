@@ -1,0 +1,11 @@
+node_modules/
+output/*.txt
+output/*.log
+output/*.json
+*.png
+screenshot-*.png
+error-*.png
+chain-refcode-leak-*.png
+config/default.json
+/tmp/
+releases/
